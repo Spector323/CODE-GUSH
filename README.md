@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://github.com/magasov" target="_blank">
+    <a href="https://github.com/Spector323" target="_blank">
       <img src="./public/assets/images/banner.png" alt="Project Banner">
     </a>
   <br />
@@ -251,5 +251,6 @@ npm run lint     # проверка кода линтером
 - Проект предназначен как демо: логин/регистрация и данные пользователя **не защищены** и не предназначены для продакшена.
 - Все данные хранятся локально в браузере (`localStorage`), отдельного сервера и БД не требуется.
 - Для деплоя на любой хостинг, поддерживающий Next.js, достаточно выполнить `npm run build` и затем запустить `npm start` (или настроить адаптированный runtime на выбранной платформе).
-#   C O D E - G U S H  
+#   C O D E - G U S H 
+ 
  
