@@ -80,7 +80,7 @@
 ```bash
 git clone https://github.com/Spector323/CODE-GUSH
 
-cd codegush
+cd CODE-GUSH
 ```
 
 Или просто распакуйте архив в папку `CODE-GUSH/` и перейдите в неё:
