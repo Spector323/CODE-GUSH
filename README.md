@@ -78,14 +78,15 @@
 ### 1. Клонирование репозитория / распаковка архива
 
 ```bash
-git clone https://github.com/magasov/codegush
+git clone https://github.com/Spector323/CODE-GUSH
+
 cd codegush
 ```
 
-Или просто распакуйте архив в папку `codegush/` и перейдите в неё:
+Или просто распакуйте архив в папку `CODE-GUSH/` и перейдите в неё:
 
 ```bash
-cd codegush
+cd CODE-GUSH
 ```
 
 ### 2. Установка зависимостей
